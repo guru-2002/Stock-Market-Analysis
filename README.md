@@ -35,18 +35,16 @@ In this project we used the Python programming language to analyze the stock mar
 
 
 ## How we built it 🧑‍💻
-We used Different python libraries such as
+We used Different python libraries such as Numpy,Matplotlyb,Pandas,Seaborne,pycaret,jinja2 etc. to analyze the stock market data collected from google and then the prices being called using yahoo finance . Then we represented them in as graphs and according to certain periods and removing weekends and some other features.
 
 ## What we learned 🤓
-Being a group of javascript developers, we tried our hands on Flutter this time. We learnt how to create an onboarding screen, proper navigation, optimize controllers and make API calls. Although we were not able to successfully use Go in the backend we did get to learn about how to create modules and contexts in Go. Finally, we learnt how to connect Flutter with Firebase and use it for authentication and real-time data manipulation.
+Being a enthusiastic student i  learnt about using python and its libraries , in order to do a real world stock market analysis . I learnt about using yahoo Finance apis too.
 
 ## Built With 💕 
 - [ ] Python
 - [ ] Google Colab
 
 
-## What's next for Donna 🔥
-Next, we want to add more and more categories and functionalities in the app to try and put all the phrases that might be required in day-to-day activities. We also wish to add hospital support and on-call emergency services in the future. In addition to that, we want to make sure, we take of their mental health as well, so we would also be adding a mood tracker which tracks a person's happiness index every day and helps them make the graph go up!
 
 
 
